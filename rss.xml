@@ -54,7 +54,7 @@
       </model>
       <model>
         <mUnique>synology_geminilake_920+</mUnique>
-        <mLink>https://global.download.synology.com/download/DSM/release/7.1.1/42962/DSM_DS920%2B_42962.pat</mLink>
+        <mLink>https://cndl.download.synology.com/download/DSM/release/7.1.1/42962/DSM_DS920%2B_42962.pat</mLink>
         <mCheckSum>ba9fbd499791d19859dd9a53372b016a</mCheckSum>
       </model>
       <model>
@@ -107,7 +107,7 @@
       </model>
       <model>
         <mUnique>synology_geminilake_920+</mUnique>
-        <mLink>https://global.download.synology.com/download/DSM/release/7.1.1/42951/DSM_DS920%2B_42951.pat</mLink>
+        <mLink>https://cndl.download.synology.com/download/DSM/release/7.1.1/42951/DSM_DS920%2B_42951.pat</mLink>
         <mCheckSum>9fcb2a54b13f4e6acc3947c2165a464b</mCheckSum>
       </model>
       <model>
@@ -185,7 +185,7 @@
       </model>
       <model>
         <mUnique>synology_geminilake_920+</mUnique>
-        <mLink>https://global.download.synology.com/download/DSM/release/7.1/42661-1/DSM_DS920%2B_42661.pat</mLink>
+        <mLink>https://cndl.download.synology.com/download/DSM/release/7.1/42661-1/DSM_DS920%2B_42661.pat</mLink>
         <mCheckSum>fa3936a53299b1a1142e4c614e2b360c</mCheckSum>
       </model>
       <model>
@@ -263,7 +263,7 @@
       </model>
       <model>
         <mUnique>synology_geminilake_920+</mUnique>
-        <mLink>https://global.download.synology.com/download/DSM/release/7.0.1/42218/DSM_DS920%2B_42218.pat</mLink>
+        <mLink>https://cndl.download.synology.com/download/DSM/release/7.0.1/42218/DSM_DS920%2B_42218.pat</mLink>
         <mCheckSum>7764ad4fca0a11ae0ebd7ccd4a49e1aa</mCheckSum>
       </model>
       <model>
